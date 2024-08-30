@@ -2,6 +2,10 @@
 
 
 // Object.create() // constructor method
+
+
+//objetct literals 
+
 const user = {
     name : "JavaScript" ,
     age: 12,
