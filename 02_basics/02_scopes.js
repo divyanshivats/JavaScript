@@ -1,3 +1,5 @@
+/* var keyword - never use it it has no scope and change be changed anywhere */
+
 function one(){
     const username = "javascript"
 
